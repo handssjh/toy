@@ -4,6 +4,6 @@ public class ToyFactory{
   }
 
   public void crete(){
-    System.out.println("create");
+    System.out.println("create 111");
   }
 }
