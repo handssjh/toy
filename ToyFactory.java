@@ -4,7 +4,7 @@ public class ToyFactory{
   }
 
   public void crete(){
-    System.out.println("create 111");
+    System.out.println("create 222");
   }
   
    public void other(){
