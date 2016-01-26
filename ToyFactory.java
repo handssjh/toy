@@ -1,5 +1,5 @@
 public class ToyFactory{
   public void make(){
-    System.out.println("making");
+    System.out.println("making!!!!");
   }
 }
